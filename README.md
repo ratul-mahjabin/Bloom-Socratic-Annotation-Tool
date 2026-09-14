@@ -45,6 +45,7 @@ Alongside Bloom annotation, the tool also supports a **Socratic Annotation mode*
 ### 📚 Integrated Annotation Rubrics
 - All **score rubrics** are available within the UI via a floating 📚 button.
 - Supports consistent and informed labeling decisions during annotation.
+- This section can be modified based on intended rubrics.
 
 ### 💾 Local JSON Export
 - Save annotations locally in **JSON format**.
