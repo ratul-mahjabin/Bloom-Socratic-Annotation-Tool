@@ -149,9 +149,3 @@ Annotations are exported in structured JSON format, including:
 - Overall comment
 
 Socratic annotations use the same turn-based span structure, but each span carries a single Socratic label instead of a list of Bloom labels, and there are no Likert scores or overall comment.
-
----
-
-## 📋 Changelog
-
-See [CHANGE.md](./CHANGE.md) for a full version history.
